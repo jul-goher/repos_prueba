@@ -40,6 +40,7 @@ inverso
 
 #Gini y simpson 
 gini-simps <-function()
+  #iba a hacer esta
 
 
 
