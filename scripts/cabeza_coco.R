@@ -15,3 +15,5 @@
 =======
 ## Para que es el git reset -- soft HEAD-1
 >>>>>>> 749dbd64f3149e4157ee39c7f0dafda403a86fae
+#QUé tan buenotes? Físivcamente? espiritualmente
+#no me dijiste para qué es el git reset -- soft HEAD-1 :(
